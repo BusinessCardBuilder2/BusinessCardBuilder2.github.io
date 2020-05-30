@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"7VNX":function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),r=t.n(a);e.default=function(){return r.a.createElement(a.Fragment,null)}}}]);
+//# sourceMappingURL=component---src-templates-empty-js-a7fedfcacd96bafd5928.js.map
